@@ -1,3 +1,3 @@
-function vscode(){
-  console.log("hi my best coder ever")
+document.querySelector('h1').onscroll=()=>{
+  document.querySelector('jq').innerHTML=GainNode;
 }
